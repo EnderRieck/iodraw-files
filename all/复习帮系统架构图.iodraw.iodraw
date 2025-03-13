@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 Core/1.116.484.400 QQBrowser/13.6.6320.400" version="24.7.17">
   <diagram id="ScZ8-ULdy__Emq8D0j2P" name="第 1 页">
-    <mxGraphModel dx="797" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="797" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,11 +141,6 @@
         <mxCell id="mIg8liYZ_Ma91d9KRxEF-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;流式语音识别&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-20;" vertex="1" parent="1">
           <mxGeometry x="260" y="123" width="80" height="20" as="geometry" />
         </mxCell>
-        <UserObject label="https://www.deepseek.com/_next/image?url=https%3A%2F%2Fcdn.deepseek.com%2Flogo.png&amp;w=1920&amp;q=75" id="mIg8liYZ_Ma91d9KRxEF-4">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="470" y="310" width="560" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
