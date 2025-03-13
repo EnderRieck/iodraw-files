@@ -141,6 +141,11 @@
         <mxCell id="mIg8liYZ_Ma91d9KRxEF-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;流式语音识别&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-20;" vertex="1" parent="1">
           <mxGeometry x="260" y="123" width="80" height="20" as="geometry" />
         </mxCell>
+        <UserObject label="https://www.deepseek.com/_next/image?url=https%3A%2F%2Fcdn.deepseek.com%2Flogo.png&amp;w=1920&amp;q=75" link="https://www.deepseek.com/_next/image?url=https%3A%2F%2Fcdn.deepseek.com%2Flogo.png&amp;w=1920&amp;q=75" id="mIg8liYZ_Ma91d9KRxEF-4">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="470" y="310" width="560" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
