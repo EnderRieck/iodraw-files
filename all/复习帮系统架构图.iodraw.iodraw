@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mk7fC6N-4r7E-ZIzzlyo-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;图片&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=#FFF8E6;dashed=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="150" y="104" width="107.33" height="46" as="geometry" />
+          <mxGeometry x="150" y="82" width="107.33" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Mk7fC6N-4r7E-ZIzzlyo-47" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Mk7fC6N-4r7E-ZIzzlyo-14" target="Mk7fC6N-4r7E-ZIzzlyo-51" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -109,7 +109,7 @@
           <mxGeometry x="346.3399999999999" y="82" width="107.33" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Mk7fC6N-4r7E-ZIzzlyo-54" value="ppt2pdf" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=15;" parent="1" vertex="1">
-          <mxGeometry x="271.34000000000003" y="57" width="60" height="20" as="geometry" />
+          <mxGeometry x="272.67" y="44" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mk7fC6N-4r7E-ZIzzlyo-55" value="" style="endArrow=classic;html=1;shadow=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mk7fC6N-4r7E-ZIzzlyo-15" target="Mk7fC6N-4r7E-ZIzzlyo-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
