@@ -31,8 +31,10 @@
         <mxCell id="jSwFkoaUK4ZLa01TYaH_-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSwFkoaUK4ZLa01TYaH_-8" target="jSwFkoaUK4ZLa01TYaH_-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jSwFkoaUK4ZLa01TYaH_-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSwFkoaUK4ZLa01TYaH_-8" target="jSwFkoaUK4ZLa01TYaH_-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jSwFkoaUK4ZLa01TYaH_-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSwFkoaUK4ZLa01TYaH_-8" target="jSwFkoaUK4ZLa01TYaH_-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jSwFkoaUK4ZLa01TYaH_-8" value="Fruit" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="60" height="60" as="geometry" />
@@ -51,9 +53,6 @@
         </mxCell>
         <mxCell id="jSwFkoaUK4ZLa01TYaH_-16" value="Vegetable" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="486" y="340" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jSwFkoaUK4ZLa01TYaH_-18" value="Fruit" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="60" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
