@@ -20,7 +20,7 @@
           <mxGeometry x="300" y="290" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VtjGXheLOoxsClShgjkO-6" value="隐形关联提取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="170" width="110" height="30" as="geometry" />
+          <mxGeometry x="300" y="170" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
