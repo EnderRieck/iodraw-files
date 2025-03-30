@@ -28,17 +28,20 @@
         <mxCell id="jSwFkoaUK4ZLa01TYaH_-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSwFkoaUK4ZLa01TYaH_-8" target="jSwFkoaUK4ZLa01TYaH_-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jSwFkoaUK4ZLa01TYaH_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSwFkoaUK4ZLa01TYaH_-8" target="jSwFkoaUK4ZLa01TYaH_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jSwFkoaUK4ZLa01TYaH_-8" value="Fruit" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="414" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="400" y="200" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jSwFkoaUK4ZLa01TYaH_-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSwFkoaUK4ZLa01TYaH_-9" target="jSwFkoaUK4ZLa01TYaH_-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jSwFkoaUK4ZLa01TYaH_-9" value="Apple" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="250" width="60" height="60" as="geometry" />
+          <mxGeometry x="486" y="230" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jSwFkoaUK4ZLa01TYaH_-11" value="Orange" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="420" y="310" width="60" height="60" as="geometry" />
+          <mxGeometry x="406" y="290" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
