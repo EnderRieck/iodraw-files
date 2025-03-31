@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VtjGXheLOoxsClShgjkO-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="300" y="290" width="270" height="70" as="geometry" />
+          <mxGeometry x="300" y="290" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="VtjGXheLOoxsClShgjkO-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;隐形关系提取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="304" y="120" width="110" height="30" as="geometry" />
@@ -55,6 +55,9 @@
         </mxCell>
         <mxCell id="VtjGXheLOoxsClShgjkO-17" value="LLM校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="160" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VtjGXheLOoxsClShgjkO-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
