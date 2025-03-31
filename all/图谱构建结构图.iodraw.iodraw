@@ -45,10 +45,10 @@
           <mxGeometry x="320" y="160" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VtjGXheLOoxsClShgjkO-16" value="相似度&lt;div&gt;计算&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="160" width="60" height="90" as="geometry" />
+          <mxGeometry x="409" y="160" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VtjGXheLOoxsClShgjkO-17" value="LLM校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="60" height="90" as="geometry" />
+          <mxGeometry x="490" y="160" width="60" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
