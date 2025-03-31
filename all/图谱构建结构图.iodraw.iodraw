@@ -22,8 +22,11 @@
         <mxCell id="VtjGXheLOoxsClShgjkO-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;隐形关联提取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="304" y="120" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VtjGXheLOoxsClShgjkO-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VtjGXheLOoxsClShgjkO-7" value="Word2Vec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VtjGXheLOoxsClShgjkO-8" value="Word2Vec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
