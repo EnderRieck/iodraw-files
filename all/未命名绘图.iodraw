@@ -7,8 +7,8 @@
         <mxCell id="wKjxrDCuY9yBMbAsmvG--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="wKjxrDCuY9yBMbAsmvG--2" target="wKjxrDCuY9yBMbAsmvG--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wKjxrDCuY9yBMbAsmvG--2" value="社团/教师教学内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="440" width="110" height="40" as="geometry" />
+        <mxCell id="wKjxrDCuY9yBMbAsmvG--2" value="社团/教师教学需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wKjxrDCuY9yBMbAsmvG--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="wKjxrDCuY9yBMbAsmvG--3" target="wKjxrDCuY9yBMbAsmvG--5">
           <mxGeometry relative="1" as="geometry" />
