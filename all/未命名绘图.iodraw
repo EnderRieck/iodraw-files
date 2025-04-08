@@ -22,8 +22,8 @@
         <mxCell id="wKjxrDCuY9yBMbAsmvG--3" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="304" y="370" width="110" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="wKjxrDCuY9yBMbAsmvG--5" value="教案" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="380" width="120" height="50" as="geometry" />
+        <mxCell id="wKjxrDCuY9yBMbAsmvG--5" value="教案" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wKjxrDCuY9yBMbAsmvG--7" value="DeepSeek&lt;div&gt;大模型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="323.25" y="420" width="71.5" height="30" as="geometry" />
@@ -37,10 +37,10 @@
         <mxCell id="wKjxrDCuY9yBMbAsmvG--10" value="自研高质量数字人引擎" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="323.25" y="510" width="71.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wKjxrDCuY9yBMbAsmvG--13" value="教学PPT" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+        <mxCell id="wKjxrDCuY9yBMbAsmvG--13" value="教学PPT" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wKjxrDCuY9yBMbAsmvG--14" value="数字人讲解" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+        <mxCell id="wKjxrDCuY9yBMbAsmvG--14" value="数字人讲解" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
