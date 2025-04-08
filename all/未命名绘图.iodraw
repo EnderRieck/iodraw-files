@@ -25,8 +25,11 @@
         <mxCell id="wKjxrDCuY9yBMbAsmvG--8" value="红雁课堂&lt;div&gt;课程生成引擎&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="319" y="377" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wKjxrDCuY9yBMbAsmvG--9" value="DeepSeek&lt;div&gt;大模型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="wKjxrDCuY9yBMbAsmvG--9" value="多智能体&lt;div&gt;协作算法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="323.25" y="460" width="71.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wKjxrDCuY9yBMbAsmvG--10" value="多智能体&lt;div&gt;协作算法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="333.25" y="470" width="71.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
