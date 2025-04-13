@@ -1,1 +1,58 @@
-<mxfile host="www.iodraw.com" modified="2025-01-13T09:29:43.670Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 Core/1.116.438.400 QQBrowser/13.0.6070.400" etag="43Klk8FzGGk-k_DEzlql" version="13.3.6" type="device"><diagram id="I4RmK6PA3_2ij65piZQk" name="第 1 页">5VnbcpswEP0aPSZjBBbwaDBuH5yZTD1t00cKMtBi5IJ869d3BeKOM25ix5l4JpNoj+57ds/KMVLt1f5T6q7DB+bTGOGRv0fqFGFsahr8FsChAAhWCyBII7+AlBpYRH+pBEcS3UQ+zVoDOWMxj9Zt0GNJQj3ewtw0Zbv2sCWL27uu3YD2gIXnxn30e+TzsEANrNf4ZxoFYbmzQsyiZ+WWg+VNstD12a4BqQ5S7ZQxXrRWe5vGwnelX4p5syO91cFSmvBTJjzOJmS2m2+/6V+/zDBXt+rD4q5089aNN/LG8rT8ULqA+uARabKUhyxgiRs7NWqlbJP4VOwzAqseM2dsDaAC4C/K+UHS6244Ayjkq1j2FnuKjY5eTkIZ26Qefe5GMkjcNKD8mXFmRQGELmUrytMDzEtp7PJo2z6HK4MoqMbVfoaGdPX/uH3A6ySG41pLBhduup/82bCy4y7LHTiBAeCcfd0JrSD/6+jIMNDERo6BTBNNACFoAoiCnDEyp8jUy53g4MVmcmqX9ppUwdAujDhdrN3c9ztI9TaByyiObRazNJ+rLpdL7HmAZzxlv2mjxyc/yZhU+21pyun+edL7JJUTTBm9UlsUQ9q7OlOVMv3CRpaS0aV4VT9aOpknppOCr5lP5qvzSTGG8wmSxkKWkyeWiQwdORqyDGRYIsOsqfi5oQxT8dUzDF+MauBwhgzgE3QTIzPnE8TUIIJh00HgixuiWiPXpvr1TA8Xyfn84SMTqeH3VhVPKYqJPxGvdbC82M2yyGt7ku4j/tRo/xDF8R6PpTndy2KZG4fSSOD0T02jOU3Y9bzcKide4Tl6pHw2OBsPUFZiJ1dZucMji/IMkiGjdmVe64RCcU05q/kZo7OQprUXwmZnocIPvYXysKqu/fJI0/qRJkQctHsmGhM9L9yg5iQv5dCwxWO5G42QfLwdf+2MTVhCO+ktITeOgkQEMQQKBdwSqRzBx8mJ7FhFvp8/8oako/3wO4MWqGpHC/RxTwvIQFzhS0mBfj4pGLWkQD9RCpS2FOhvKAX4RCk4QukbSQHpZLD+UilQOgt1Y+rCUmAMSAE83W1kGrkm2EIEblgK8IhcVwqUgX+C9Pi4638Cy1Iv1/IZssyPSxfuVlJ94BWnvClfQ8X1dvIHd/Ss0rfrEULOUEyrJ/L9uFUZz1YW33e5q9YpH0ijl5a7jryqyrnKHZj1lwTF8PqbFtX5Bw==</diagram></mxfile>
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 Core/1.116.489.400 QQBrowser/13.7.6350.400" version="24.7.17">
+  <diagram id="I4RmK6PA3_2ij65piZQk" name="第 1 页">
+    <mxGraphModel dx="956" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PFA6FwLvV7URF2t3v3MS-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PFA6FwLvV7URF2t3v3MS-1" target="PFA6FwLvV7URF2t3v3MS-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFA6FwLvV7URF2t3v3MS-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;爬虫模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFA6FwLvV7URF2t3v3MS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PFA6FwLvV7URF2t3v3MS-9" target="PFA6FwLvV7URF2t3v3MS-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFA6FwLvV7URF2t3v3MS-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;图片下载模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="190" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFA6FwLvV7URF2t3v3MS-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;词频分析模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="190" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFA6FwLvV7URF2t3v3MS-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;LLM模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="420" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFA6FwLvV7URF2t3v3MS-3" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="PFA6FwLvV7URF2t3v3MS-1" target="PFA6FwLvV7URF2t3v3MS-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFA6FwLvV7URF2t3v3MS-4" value="原始文本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="175" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PFA6FwLvV7URF2t3v3MS-7" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="PFA6FwLvV7URF2t3v3MS-2" target="PFA6FwLvV7URF2t3v3MS-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="270" as="sourcePoint" />
+            <mxPoint x="410" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFA6FwLvV7URF2t3v3MS-8" value="优化文本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="206" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PFA6FwLvV7URF2t3v3MS-11" value="文本-图片src对" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="270" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PFA6FwLvV7URF2t3v3MS-14" value="文本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="410" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PFA6FwLvV7URF2t3v3MS-16" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="PFA6FwLvV7URF2t3v3MS-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="100" as="sourcePoint" />
+            <mxPoint x="430" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
