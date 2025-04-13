@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 Core/1.116.489.400 QQBrowser/13.7.6350.400" version="24.7.17">
   <diagram id="Af3QiJwTeJ8HwZHKqVrJ" name="第 1 页">
-    <mxGraphModel dx="375" dy="1414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="455" dy="1467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,9 +157,6 @@
         </mxCell>
         <mxCell id="gD7iwSNx-lB5IC20O2R6-28" value="硬件联动报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="770" y="25" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gD7iwSNx-lB5IC20O2R6-31" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#f8cecc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="807" y="-85" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
