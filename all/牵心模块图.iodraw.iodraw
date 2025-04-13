@@ -155,7 +155,7 @@
         <mxCell id="gD7iwSNx-lB5IC20O2R6-27" value="救援建议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="760" y="2.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gD7iwSNx-lB5IC20O2R6-28" value="关怀建议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="gD7iwSNx-lB5IC20O2R6-28" value="硬件联动报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="760" y="70" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
