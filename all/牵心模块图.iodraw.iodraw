@@ -149,7 +149,7 @@
         <mxCell id="gD7iwSNx-lB5IC20O2R6-26" value="高德导航服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="640" y="10" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gD7iwSNx-lB5IC20O2R6-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="gD7iwSNx-lB5IC20O2R6-28" target="gD7iwSNx-lB5IC20O2R6-31">
+        <mxCell id="gD7iwSNx-lB5IC20O2R6-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gD7iwSNx-lB5IC20O2R6-28" target="gD7iwSNx-lB5IC20O2R6-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gD7iwSNx-lB5IC20O2R6-28" value="硬件联动报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
