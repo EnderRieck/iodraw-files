@@ -101,7 +101,7 @@
         <mxCell id="8SiR05neHTZDwlpMf-8h-46" value="活跃度数值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="461.5" y="80" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gD7iwSNx-lB5IC20O2R6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="8SiR05neHTZDwlpMf-8h-3" target="8SiR05neHTZDwlpMf-8h-37">
+        <mxCell id="gD7iwSNx-lB5IC20O2R6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;shape=flexArrow;" edge="1" parent="1" source="8SiR05neHTZDwlpMf-8h-3" target="8SiR05neHTZDwlpMf-8h-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gD7iwSNx-lB5IC20O2R6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gD7iwSNx-lB5IC20O2R6-2" target="gD7iwSNx-lB5IC20O2R6-6">
