@@ -83,8 +83,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8SiR05neHTZDwlpMf-8h-42" value="活跃度检测算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="410" width="90" height="30" as="geometry" />
+        <mxCell id="8SiR05neHTZDwlpMf-8h-42" value="活跃度评估智能体" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="410" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8SiR05neHTZDwlpMf-8h-46" value="活跃度数值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="461.5" y="80" width="90" height="40" as="geometry" />
