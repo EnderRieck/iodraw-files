@@ -127,7 +127,7 @@
         <mxCell id="gD7iwSNx-lB5IC20O2R6-17" value="救援建议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="760" y="312.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gD7iwSNx-lB5IC20O2R6-19" value="心理关怀智能体" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="gD7iwSNx-lB5IC20O2R6-19" value="关怀建议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="760" y="380" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
