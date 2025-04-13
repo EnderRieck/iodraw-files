@@ -98,6 +98,9 @@
         <mxCell id="gD7iwSNx-lB5IC20O2R6-2" value="高性能摔倒检测算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="271.5" y="380" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="gD7iwSNx-lB5IC20O2R6-6" value="动作识别模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="270.5" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
