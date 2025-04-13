@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 Core/1.116.489.400 QQBrowser/13.7.6350.400" version="24.7.17">
   <diagram id="Af3QiJwTeJ8HwZHKqVrJ" name="第 1 页">
-    <mxGraphModel dx="659" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="220" dy="1313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="8SiR05neHTZDwlpMf-8h-26" value="YOLOv8模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="271.5" y="312.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gD7iwSNx-lB5IC20O2R6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8SiR05neHTZDwlpMf-8h-29" target="gD7iwSNx-lB5IC20O2R6-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8SiR05neHTZDwlpMf-8h-29" value="是否摔倒" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="450" y="312.5" width="90" height="40" as="geometry" />
@@ -86,7 +89,7 @@
         <mxCell id="8SiR05neHTZDwlpMf-8h-42" value="活跃度评估智能体" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="410" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gD7iwSNx-lB5IC20O2R6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8SiR05neHTZDwlpMf-8h-46" target="8SiR05neHTZDwlpMf-8h-2">
+        <mxCell id="gD7iwSNx-lB5IC20O2R6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="8SiR05neHTZDwlpMf-8h-46" target="8SiR05neHTZDwlpMf-8h-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="676.5" y="100" as="targetPoint" />
           </mxGeometry>
