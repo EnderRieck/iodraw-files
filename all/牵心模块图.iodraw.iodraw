@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 Core/1.116.489.400 QQBrowser/13.7.6350.400" version="24.7.17">
   <diagram id="Af3QiJwTeJ8HwZHKqVrJ" name="第 1 页">
-    <mxGraphModel dx="177" dy="1285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="445" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,16 +148,6 @@
         </mxCell>
         <mxCell id="gD7iwSNx-lB5IC20O2R6-26" value="高德导航服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="640" y="10" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gD7iwSNx-lB5IC20O2R6-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;entryX=0.426;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gD7iwSNx-lB5IC20O2R6-28" target="gD7iwSNx-lB5IC20O2R6-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="815" y="-5" />
-              <mxPoint x="720" y="-5" />
-              <mxPoint x="720" y="-10" />
-              <mxPoint x="678" y="-10" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="gD7iwSNx-lB5IC20O2R6-28" value="硬件联动报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="770" y="25" width="90" height="40" as="geometry" />
