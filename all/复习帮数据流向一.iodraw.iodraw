@@ -70,7 +70,7 @@
         <mxCell id="2WkRzV4Rb1GzQehrUNWg-17" value="生成prompt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="370" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2WkRzV4Rb1GzQehrUNWg-19" value="Ernie-Bot&amp;nbsp;SDK" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2WkRzV4Rb1GzQehrUNWg-19" value="后端智能体系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="286" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2WkRzV4Rb1GzQehrUNWg-26" value="" style="endArrow=classic;html=1;entryX=0.006;entryY=0.328;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="2WkRzV4Rb1GzQehrUNWg-4" target="2WkRzV4Rb1GzQehrUNWg-19" edge="1">
