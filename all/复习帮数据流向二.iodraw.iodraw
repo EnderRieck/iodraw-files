@@ -51,7 +51,7 @@
             <mxPoint x="670" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZ142ZsDoPNapFSYNUu1-26" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HZ142ZsDoPNapFSYNUu1-25">
+        <mxCell id="HZ142ZsDoPNapFSYNUu1-26" value="文本类" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HZ142ZsDoPNapFSYNUu1-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
