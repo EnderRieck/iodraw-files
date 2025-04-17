@@ -10,7 +10,7 @@
         <mxCell id="2WkRzV4Rb1GzQehrUNWg-2" value="y" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="217" y="286" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2WkRzV4Rb1GzQehrUNWg-1" value="文心一言前端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2WkRzV4Rb1GzQehrUNWg-1" value="前端界面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2WkRzV4Rb1GzQehrUNWg-4" value="生成prompt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -58,7 +58,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2WkRzV4Rb1GzQehrUNWg-14" value="生成知识大纲" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="2WkRzV4Rb1GzQehrUNWg-13" connectable="0" vertex="1">
+        <mxCell id="2WkRzV4Rb1GzQehrUNWg-14" value="思维导图生成" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="2WkRzV4Rb1GzQehrUNWg-13" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2WkRzV4Rb1GzQehrUNWg-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2WkRzV4Rb1GzQehrUNWg-16" target="2WkRzV4Rb1GzQehrUNWg-19" edge="1">
