@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 Core/1.116.489.400 QQBrowser/13.7.6350.400" version="24.7.17">
   <diagram id="YqsfccSpLu5i6wOhHmpL" name="第 1 页">
-    <mxGraphModel dx="1125" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="153" dy="106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="2WkRzV4Rb1GzQehrUNWg-10" value="启发式提问" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="2WkRzV4Rb1GzQehrUNWg-9" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2WkRzV4Rb1GzQehrUNWg-11" value="" style="endArrow=classic;html=1;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="2WkRzV4Rb1GzQehrUNWg-7" target="2WkRzV4Rb1GzQehrUNWg-16" edge="1">
+        <mxCell id="2WkRzV4Rb1GzQehrUNWg-11" value="" style="endArrow=classic;html=1;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2WkRzV4Rb1GzQehrUNWg-7" target="2WkRzV4Rb1GzQehrUNWg-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="316" as="sourcePoint" />
             <mxPoint x="720" y="316" as="targetPoint" />
