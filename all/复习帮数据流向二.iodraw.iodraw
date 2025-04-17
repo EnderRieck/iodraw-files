@@ -25,7 +25,7 @@
         <mxCell id="HZ142ZsDoPNapFSYNUu1-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HZ142ZsDoPNapFSYNUu1-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HZ142ZsDoPNapFSYNUu1-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HZ142ZsDoPNapFSYNUu1-3" target="HZ142ZsDoPNapFSYNUu1-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="340" as="sourcePoint" />
             <mxPoint x="460" y="340" as="targetPoint" />
