@@ -44,6 +44,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="316" as="sourcePoint" />
             <mxPoint x="720" y="316" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2WkRzV4Rb1GzQehrUNWg-12" value="费曼学习法" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="2WkRzV4Rb1GzQehrUNWg-11" connectable="0" vertex="1">
