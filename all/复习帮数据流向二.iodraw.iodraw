@@ -31,10 +31,10 @@
         <mxCell id="HZ142ZsDoPNapFSYNUu1-14" value="图片类" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HZ142ZsDoPNapFSYNUu1-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZ142ZsDoPNapFSYNUu1-16" value="OCR模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HZ142ZsDoPNapFSYNUu1-16" value="图片识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="410" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HZ142ZsDoPNapFSYNUu1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HZ142ZsDoPNapFSYNUu1-17" target="HZ142ZsDoPNapFSYNUu1-22">
+        <mxCell id="HZ142ZsDoPNapFSYNUu1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HZ142ZsDoPNapFSYNUu1-17" target="HZ142ZsDoPNapFSYNUu1-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="900" y="380" as="targetPoint" />
           </mxGeometry>
