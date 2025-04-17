@@ -42,7 +42,7 @@
         <mxCell id="F_g2X-EaA8QkNEdlA7EM-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;教案生成智能体&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="270" y="310" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="F_g2X-EaA8QkNEdlA7EM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F_g2X-EaA8QkNEdlA7EM-12" target="F_g2X-EaA8QkNEdlA7EM-16">
+        <mxCell id="F_g2X-EaA8QkNEdlA7EM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="F_g2X-EaA8QkNEdlA7EM-12" target="F_g2X-EaA8QkNEdlA7EM-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F_g2X-EaA8QkNEdlA7EM-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;PPT内容构建智能体&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
