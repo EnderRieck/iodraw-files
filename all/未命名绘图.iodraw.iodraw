@@ -58,7 +58,7 @@
         <mxCell id="hGBHusiZQOshXOo2Ziv1-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;人体关键点数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="349.5" y="390" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hGBHusiZQOshXOo2Ziv1-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;服务器&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hGBHusiZQOshXOo2Ziv1-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;服务器侧&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="565" y="120" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
