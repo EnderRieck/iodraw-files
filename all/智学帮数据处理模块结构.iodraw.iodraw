@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="abTE0i6ZdEaRj__7Egdb-1" value="用户上传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="abTE0i6ZdEaRj__7Egdb-1" value="用户上传" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="abTE0i6ZdEaRj__7Egdb-2" value="文本类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
