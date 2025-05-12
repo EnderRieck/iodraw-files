@@ -18,7 +18,7 @@
         <mxCell id="abTE0i6ZdEaRj__7Egdb-2" value="文本类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTE0i6ZdEaRj__7Egdb-4" value="文本类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="abTE0i6ZdEaRj__7Egdb-4" value="图片类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="abTE0i6ZdEaRj__7Egdb-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="abTE0i6ZdEaRj__7Egdb-1" target="abTE0i6ZdEaRj__7Egdb-4">
