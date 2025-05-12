@@ -50,13 +50,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="abTE0i6ZdEaRj__7Egdb-10" value="OCR识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="abTE0i6ZdEaRj__7Egdb-10" value="OCR识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="550" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="abTE0i6ZdEaRj__7Egdb-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTE0i6ZdEaRj__7Egdb-12" target="abTE0i6ZdEaRj__7Egdb-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abTE0i6ZdEaRj__7Egdb-12" value="PDF处理算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="abTE0i6ZdEaRj__7Egdb-12" value="PDF处理算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="550" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
