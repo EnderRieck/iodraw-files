@@ -59,16 +59,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lv1uAr27dtaY7FnXHhU9-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="249" y="990" width="120" height="140" as="geometry" />
+          <mxGeometry x="238" y="990" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="lv1uAr27dtaY7FnXHhU9-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据预处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="249" y="995" width="120" height="30" as="geometry" />
+          <mxGeometry x="238" y="995" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lv1uAr27dtaY7FnXHhU9-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;PDF处理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="264" y="1080" width="90" height="40" as="geometry" />
+          <mxGeometry x="253" y="1080" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lv1uAr27dtaY7FnXHhU9-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;图片理解&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="264" y="1030" width="90" height="40" as="geometry" />
+          <mxGeometry x="253" y="1030" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lv1uAr27dtaY7FnXHhU9-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;RAG服务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="500" y="990" width="200" height="60" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="874" y="997.5" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="K03GzMEAJkc5a-npajaU-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="370" y="990" width="120" height="140" as="geometry" />
+          <mxGeometry x="380" y="990" width="110" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
