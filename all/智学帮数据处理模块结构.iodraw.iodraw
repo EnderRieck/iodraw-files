@@ -45,7 +45,7 @@
         <mxCell id="abTE0i6ZdEaRj__7Egdb-10" value="OCR识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTE0i6ZdEaRj__7Egdb-12" value="PDF识别模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="abTE0i6ZdEaRj__7Egdb-12" value="PDF处理算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
