@@ -7,16 +7,16 @@
         <mxCell id="abTE0i6ZdEaRj__7Egdb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abTE0i6ZdEaRj__7Egdb-1" target="abTE0i6ZdEaRj__7Egdb-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="370" />
-              <mxPoint x="350" y="270" />
+              <mxPoint x="340" y="370" />
+              <mxPoint x="340" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="abTE0i6ZdEaRj__7Egdb-1" value="用户上传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abTE0i6ZdEaRj__7Egdb-2" value="用户上传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="abTE0i6ZdEaRj__7Egdb-2" value="文本类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
