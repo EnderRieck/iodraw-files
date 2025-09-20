@@ -1180,7 +1180,7 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-834" value="&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;Differential Attention Head&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="485" y="1580" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-838" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Q&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-838" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Q&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#f36f43;" vertex="1" parent="1">
           <mxGeometry x="270" y="1780" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-839" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;K&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
@@ -1274,7 +1274,7 @@
           <mxGeometry x="700" y="2124.75" width="108.75" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-876" value="&lt;font style=&quot;font-size: 80px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1994.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="860" y="1994.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-878" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XAEDBJs9cm_9kudEBs1t-872">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
