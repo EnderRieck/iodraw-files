@@ -48,7 +48,7 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="294.12999999999994" as="sourcePoint" />
-            <mxPoint x="810" y="294.32" as="targetPoint" />
+            <mxPoint x="900" y="294" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-30" value="&lt;font face=&quot;Cambria&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 26px;&quot;&gt;N×V&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -644,7 +644,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-627" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;Subtraction&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="813.0600000000001" y="277" width="194.63" height="30" as="geometry" />
+          <mxGeometry x="813.0600000000001" y="380" width="194.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-628" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
