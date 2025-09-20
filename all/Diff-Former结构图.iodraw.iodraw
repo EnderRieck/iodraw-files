@@ -1142,13 +1142,13 @@
           <mxGeometry x="180" y="1565" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-805" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9d9d9;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1525" width="330" height="75" as="geometry" />
+          <mxGeometry x="760" y="1525" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-806" value="&lt;b style=&quot;font-family: Cambria; font-size: 20px;&quot;&gt;self-Attention Head 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9d9d9;" vertex="1" parent="1">
           <mxGeometry x="760" y="1245" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-807" value="&lt;b style=&quot;font-family: Cambria; font-size: 20px;&quot;&gt;self-Attention Head 3&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9d9d9;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1430" width="330" height="75" as="geometry" />
+          <mxGeometry x="760" y="1430" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-808" value="&lt;b style=&quot;font-family: Cambria; font-size: 20px;&quot;&gt;self-Attention Head 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9d9d9;" vertex="1" parent="1">
           <mxGeometry x="760" y="1340" width="220" height="75" as="geometry" />
