@@ -1227,7 +1227,7 @@
           <mxGeometry x="1360.08" y="1881" width="219.92" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-834" value="&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 26px;&quot;&gt;Differential Attention Head&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="1460" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="1580" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
