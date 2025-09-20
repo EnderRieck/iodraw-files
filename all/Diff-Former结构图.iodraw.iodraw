@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 Core/1.116.489.400 QQBrowser/13.7.6350.400" version="24.7.17">
   <diagram name="第 1 页" id="8udeW_u4lLe2b1SC0fOW">
-    <mxGraphModel dx="382" dy="264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="319" dy="220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,7 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-80" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#31688e;" vertex="1" parent="1">
           <mxGeometry x="750" y="910" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-92" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="1">
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-92" value="" style="group;strokeWidth=3;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="760" y="560" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-57" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#404185;" vertex="1" parent="XAEDBJs9cm_9kudEBs1t-92">
@@ -223,7 +223,7 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-91" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#38b775;" vertex="1" parent="XAEDBJs9cm_9kudEBs1t-92">
           <mxGeometry x="20" y="20" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#B5739D;" vertex="1" parent="XAEDBJs9cm_9kudEBs1t-92">
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#B5739D;strokeWidth=3;" vertex="1" parent="XAEDBJs9cm_9kudEBs1t-92">
           <mxGeometry width="100" height="100" as="geometry" />
         </mxCell>
       </root>
