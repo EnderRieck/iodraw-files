@@ -85,9 +85,6 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-33" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;font-size: 26px;&quot;&gt;V×N&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="180" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XAEDBJs9cm_9kudEBs1t-34" target="XAEDBJs9cm_9kudEBs1t-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-34" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;font-size: 26px;&quot;&gt;V×N&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="380" width="130" height="30" as="geometry" />
         </mxCell>
@@ -106,7 +103,7 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-8" value="&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 26px;&quot;&gt;K2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="480" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b9c8da;strokeColor=#A1A9D0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFEAF1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="250" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFEAF1;strokeColor=#A1A9D0;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
