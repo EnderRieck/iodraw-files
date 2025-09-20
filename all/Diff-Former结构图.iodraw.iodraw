@@ -1144,17 +1144,8 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-834" value="&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;Differential Attention Head&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="485" y="1580" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-836" value="" style="endArrow=none;html=1;rounded=0;exitX=0.01;exitY=0.059;exitDx=0;exitDy=0;entryX=0.021;entryY=0.947;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" target="XAEDBJs9cm_9kudEBs1t-833">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="263.86122448979586" y="1776.574285714286" as="sourcePoint" />
-            <mxPoint x="950" y="1730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-837" value="" style="endArrow=none;html=1;rounded=0;entryX=0.994;entryY=0.074;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.933;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XAEDBJs9cm_9kudEBs1t-833">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1220" y="1630" as="sourcePoint" />
-            <mxPoint x="643.8057142857147" y="1778.2457142857147" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-838" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
