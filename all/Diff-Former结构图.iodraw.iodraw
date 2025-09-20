@@ -1220,10 +1220,10 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-830" value="&lt;b style=&quot;font-family: Cambria; font-size: 20px;&quot;&gt;cross-Attention Head 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9d9d9;" vertex="1" parent="1">
           <mxGeometry x="1030.08" y="1305" width="219.92" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-831" value="&lt;b style=&quot;font-family: Cambria; font-size: 20px;&quot;&gt;cross-Attention Head 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9d9d9;" vertex="1" parent="1">
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-831" value="&lt;b style=&quot;font-family: Cambria; font-size: 20px;&quot;&gt;cross-Attention Head 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9d9d9;" vertex="1" parent="1">
           <mxGeometry x="1030.08" y="1395" width="219.92" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-832" value="&lt;b style=&quot;font-family: Cambria; font-size: 20px;&quot;&gt;cross-Attention Head 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9d9d9;" vertex="1" parent="1">
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-832" value="&lt;b style=&quot;font-family: Cambria; font-size: 20px;&quot;&gt;cross-Attention Head 3&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9d9d9;" vertex="1" parent="1">
           <mxGeometry x="1030.08" y="1489" width="219.92" height="50" as="geometry" />
         </mxCell>
       </root>
