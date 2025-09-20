@@ -1142,7 +1142,7 @@
           <mxGeometry x="-260" y="3130" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-834" value="&lt;font size=&quot;1&quot; face=&quot;Cambria&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;Multi-Head Attention&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3060" y="4850" width="655.37" height="30" as="geometry" />
+          <mxGeometry x="260" y="2816" width="655.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-885" value="" style="group;strokeWidth=3;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-510" y="1798" width="2090" height="958.13" as="geometry" />
