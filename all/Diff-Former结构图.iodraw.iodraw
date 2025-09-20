@@ -34,7 +34,7 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-20" value="&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;Lambda&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;Matrix&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0988c;strokeColor=#b883d3;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="615" y="670" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="739" y="520.01" as="sourcePoint" />
             <mxPoint x="850" y="520" as="targetPoint" />
