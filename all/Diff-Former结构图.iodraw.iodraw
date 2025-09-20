@@ -646,10 +646,10 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-627" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;Subtraction&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="805.37" y="271.5" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-628" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-628" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1070" y="380.73999999999995" as="sourcePoint" />
-            <mxPoint x="1150" y="380.93" as="targetPoint" />
+            <mxPoint x="1035.37" y="285.93999999999994" as="sourcePoint" />
+            <mxPoint x="1130" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-669" value="" style="group" vertex="1" connectable="0" parent="1">
