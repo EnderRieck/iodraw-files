@@ -1171,11 +1171,8 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-849" value="&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 18px;&quot;&gt;Attention&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="631.88" y="1798.13" width="90" height="46.25" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-850" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Q&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="2060" width="350" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-851" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;K&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="2110" width="350" height="40" as="geometry" />
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-852" value="&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 18px;&quot;&gt;Attention&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="631.88" y="1930" width="90" height="46.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
