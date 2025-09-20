@@ -190,6 +190,12 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-76" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8e620;" vertex="1" parent="1">
           <mxGeometry x="470" y="940" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-77" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8e620;" vertex="1" parent="1">
+          <mxGeometry x="470" y="900" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-78" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#404185;" vertex="1" parent="1">
+          <mxGeometry x="680" y="840" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
