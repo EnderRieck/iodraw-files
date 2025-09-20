@@ -1156,15 +1156,6 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-809" value="&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;self-Attention Head 1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="1267.5" width="164.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-810" value="&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;self-Attention Head 2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1362.5" width="165" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-811" value="&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Attention Head 3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="665.38" y="1452.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-812" value="&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Attention Head 4&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="666" y="1547.5" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
