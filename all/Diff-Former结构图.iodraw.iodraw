@@ -1153,10 +1153,10 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-808" value="&lt;b style=&quot;font-family: Cambria; font-size: 20px;&quot;&gt;self-Attention Head 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9d9d9;" vertex="1" parent="1">
           <mxGeometry x="760" y="1340" width="220" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-821" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XAEDBJs9cm_9kudEBs1t-806">
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-821" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XAEDBJs9cm_9kudEBs1t-806">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1020" y="1340" as="sourcePoint" />
-            <mxPoint x="1070" y="1290" as="targetPoint" />
+            <mxPoint x="1070" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
