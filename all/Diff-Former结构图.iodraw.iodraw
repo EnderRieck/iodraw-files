@@ -1262,15 +1262,15 @@
           <mxGeometry x="774.63" y="1830" width="90" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-873" value="&lt;font face=&quot;Cambria&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;cross&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 18px;&quot;&gt;Attention&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1930" width="90" height="46.25" as="geometry" />
+          <mxGeometry x="709.38" y="1993.75" width="90" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-874" value="&lt;font face=&quot;Cambria&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;cross&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Cambria&quot; style=&quot;font-size: 18px;&quot;&gt;Attention&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="700" y="2124.75" width="108.75" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-875" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630.75" y="2124.7999999999997" as="sourcePoint" />
-            <mxPoint x="740" y="2125" as="targetPoint" />
+            <mxPoint x="620" y="2051.9999999999995" as="sourcePoint" />
+            <mxPoint x="729.25" y="2052.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
