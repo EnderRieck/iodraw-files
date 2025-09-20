@@ -1279,7 +1279,7 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-878" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XAEDBJs9cm_9kudEBs1t-872">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="1894.38" as="sourcePoint" />
-            <mxPoint x="850" y="1844.38" as="targetPoint" />
+            <mxPoint x="850" y="1890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
