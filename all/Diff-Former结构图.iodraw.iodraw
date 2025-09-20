@@ -1232,6 +1232,12 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-832" value="&lt;b style=&quot;font-family: Cambria;&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;cross-Attention Head 3&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9d9d9;" vertex="1" parent="XAEDBJs9cm_9kudEBs1t-835">
           <mxGeometry x="474.01795918367344" y="358.0571428571429" width="385.9820408163266" height="74.28571428571429" as="geometry" />
         </mxCell>
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-836" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.021;entryY=0.952;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XAEDBJs9cm_9kudEBs1t-806" target="XAEDBJs9cm_9kudEBs1t-833">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="1780" as="sourcePoint" />
+            <mxPoint x="950" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
