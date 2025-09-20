@@ -47,7 +47,11 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="294.12999999999994" as="sourcePoint" />
-            <mxPoint x="910" y="380" as="targetPoint" />
+            <mxPoint x="870" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="294" />
+              <mxPoint x="870" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-30" value="&lt;font face=&quot;Cambria&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 26px;&quot;&gt;N×V&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -638,8 +642,8 @@
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-626" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="864.57" y="550" as="sourcePoint" />
-            <mxPoint x="864.57" y="440" as="targetPoint" />
+            <mxPoint x="874.57" y="555" as="sourcePoint" />
+            <mxPoint x="874.57" y="445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-627" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;`Subtraction`&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
