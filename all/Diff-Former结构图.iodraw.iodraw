@@ -1281,8 +1281,8 @@
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-878" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=6;" edge="1" parent="XAEDBJs9cm_9kudEBs1t-885">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1688.655486050683" y="215.66742147239322" as="sourcePoint" />
-            <mxPoint x="1790.0652315720802" y="215.28534509202453" as="targetPoint" />
+            <mxPoint x="1659.995486050683" y="216.6474214723932" as="sourcePoint" />
+            <mxPoint x="1761.40523157208" y="216.26534509202452" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-879" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="XAEDBJs9cm_9kudEBs1t-885">
