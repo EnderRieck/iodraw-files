@@ -47,10 +47,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XAEDBJs9cm_9kudEBs1t-17" value="Att1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="650" y="250" width="70" height="70" as="geometry" />
+          <mxGeometry x="640" y="250" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-18" value="Att1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="660" y="260" width="70" height="70" as="geometry" />
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-18" value="Att2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="450" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
