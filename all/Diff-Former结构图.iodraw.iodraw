@@ -1135,10 +1135,10 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-791" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#A680B8;strokeWidth=2;" vertex="1" parent="XAEDBJs9cm_9kudEBs1t-765">
           <mxGeometry width="100.74999999999999" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-792" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XAEDBJs9cm_9kudEBs1t-627">
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-792" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="962.3199999999999" y="410" as="sourcePoint" />
-            <mxPoint x="1010" y="410" as="targetPoint" />
+            <mxPoint x="970" y="410" as="sourcePoint" />
+            <mxPoint x="1000" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
