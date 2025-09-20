@@ -127,7 +127,7 @@
         <mxCell id="XAEDBJs9cm_9kudEBs1t-53" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;Q1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="454" y="490" width="69" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XAEDBJs9cm_9kudEBs1t-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XAEDBJs9cm_9kudEBs1t-56" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="680" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
